@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI/ML & DevOps**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JesseIngles](https://github.com/JesseIngles)
+- 👨‍💻 All of my projects are available at [[https://github.com/JesseIngles]([https://github.com/JesseIngles](https://github.com/JesseIngles?tab=repositories))](https://github.com/JesseIngles?tab=repositories)
 
 - 💬 Ask me about **Full Stack Mobile & Web Development - Tech Speech**
 
