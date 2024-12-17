@@ -3,5 +3,5 @@
 
 <p align="center">
   📫 <a href="mailto:JesseIngles@hotmail.com">JesseIngles@hotmail.com</a> | 
-  <a href="https://www.linkedin.com/in/jess%C3%A9ingl%C3%AAs/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/jess%C3%A9ingl%C3%AAs/">Mr. English</a>
 </p>
